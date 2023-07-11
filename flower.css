@@ -96,3 +96,80 @@ padding-top: 148px;
     font-size: 20px;
     color: #272727;
 }
+
+.icon-section{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 100px 40px;
+}
+.icon-first{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    
+}
+.icon-second{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    
+}
+
+.icon-three{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    
+
+}
+.icon-p-tag{
+    padding-top: 5px;
+}
+.hot-deal-container{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 100px 0px;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.hot-deal-left{
+    
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    
+}
+#hot-deal-off{
+color: #E55473;
+}
+
+.signup{ 
+border-radius: 8px;
+background-color: #E55473;
+padding: 18px 30px;
+border: none;
+color: white;
+margin-top: 20px;
+}
+.hot-deal-title{
+    margin-bottom: 20px;
+}
+.hot-deal-right img {
+width: 250px;
+height: 300px;
+}
