@@ -21,12 +21,14 @@
 }
 .header-title{
     font-size: 54px;
+    font-family: sans-serif;
 }
 .header-discription{
-    font-size:18px;
+    font-size:20px;
     padding-top: 20px;
     padding-bottom: 20px;
     color: rgba(39, 39, 39, 0.60);
+    font-family: serif;
 }
 .btn-header{
 border-radius: 8px;
@@ -34,6 +36,8 @@ background: #E55473;
 padding: 18px 30px;
 border: none;
 color: white;
+font-family: serif;
+font-size: 20px;
 }
 .header-left-content{
     padding-left: 100px;
@@ -45,6 +49,11 @@ color: white;
 .flower-section{
     display: flex;
 
+}
+
+.featue-title{
+    font-family: sans-serif;
+    font-size: 40px;
 }
 .featured-section{
     padding-bottom: 25px;
@@ -60,9 +69,10 @@ color: white;
 .featured-section p {
     align-content: center;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     color: rgba(39, 39, 39, 0.60);
     padding-bottom: 15px;
+    font-family: serif;
    
 }
 .flower-section{
@@ -95,6 +105,7 @@ padding-top: 148px;
     text-decoration: underline;
     font-size: 20px;
     color: #272727;
+    font-family: serif;
 }
 
 .icon-section{
@@ -105,7 +116,7 @@ padding-top: 148px;
     justify-content: space-around;
     border-radius: 8px;
     background-color: rgba(39, 39, 39, 0.05);
-    margin: 100px 40px;
+    margin: 70px 40px;
 }
 .icon-first{
     align-items: center;
@@ -132,6 +143,8 @@ padding-top: 148px;
 }
 .icon-p-tag{
     padding-top: 5px;
+    font-family: serif;
+    font-size: 20px;
 }
 .hot-deal-container{
     width: 100%;
@@ -139,7 +152,7 @@ padding-top: 148px;
     display: flex;
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
-    margin: 100px 0px;
+    margin: 70px 0px;
     justify-content: center;
     justify-content: space-around;
     align-items: center;
@@ -156,9 +169,12 @@ padding-top: 148px;
 }
 .hot-deal-left p{
    color:rgba(39, 39, 39, 0.60);
+   font-family: serif;
+   font-size: 20px;
 }
 #hot-deal-off{
 color: #E55473;
+
 }
 
 .signup{ 
@@ -171,6 +187,8 @@ margin-top: 20px;
 }
 .hot-deal-title{
     margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 40px;
 }
 .hot-deal-right img {
 width: 250px;
@@ -184,13 +202,17 @@ height: 300px;
     
 }
 .insta-title{
-    margin-bottom: 10px;
-    font-size: 34px;
+    margin-bottom: 13px;
+    font-family: sans-serif;
+    font-size: 40px;
 }
 
 .insta-discription{
 color:rgba(39, 39, 39, 0.60);
 margin-bottom: 20px;
+font-family: serif;
+font-size: 20px;
+
 }
 .instagram-image-section{
     display: flex;
@@ -218,13 +240,15 @@ margin: 70px 30px;
     
 }
 .latest-deal-title{
-    font-size: 34px;
+    font-size: 40px;
     margin-bottom: 10px;
     margin-top: 40px;
+    font-family: sans-serif;
 
 }
 .latest-deal-para{
-    font-size: 13px;
+    font-size: 20px;
+    font-family: serif;
     margin-bottom: 30px;
     color: rgba(39, 39, 39, 0.60);
 }
@@ -236,14 +260,16 @@ margin: 70px 30px;
     padding-top: 80px;
     padding-bottom: 20px;
     justify-content: center;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
 }
 .input-field input {
     padding: 18px 30px;
     width: 50%;
     border: none;
     border-radius: 4px;
-   margin-right: 5px;
+    margin-right: 5px;
+    font-family: serif;
+    font-size: 20px;
 }
 
 .latest-deal-button{
@@ -252,6 +278,8 @@ background-color: #E55473;
 padding: 18px 30px;
 border: none;
 color: white;
+font-family: serif;
+font-size: 20px;
 }
 #mail{
     color: rgba(39, 39, 39, 0.60);
@@ -266,15 +294,17 @@ color: white;
 }
 
 .footer-title{
-    font-size: 35px;
+    font-size: 40px;
     padding-top: 120px;
     margin-bottom: 20px;
+    font-family: sans-serif;
 
 }
 
 .footer-discription{
    font-size: 20px;
    color: rgba(255, 255, 255, 0.90);
+   font-family: serif;
 }
 #footer-shop{
 color: #E55473;
@@ -283,4 +313,5 @@ color: #E55473;
 .footer-copyright{
   color:rgba(255, 255, 255, 0.40);
   font-size: 20px;
+  font-family:serif
 }
