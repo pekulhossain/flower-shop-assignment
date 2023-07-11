@@ -266,11 +266,27 @@ margin: 70px 30px;
     border-radius: 4px;
 }
 .latest-deal-section{
+    display: flex;
     background-image: url('Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
+    width:95%;
     height: 320px;
+    background-position: center;
+    margin-left: 30px;
+    border-radius: 5px;
+    
+
+   
+}
+
+
+.deal-section-container{
+
+   padding-left: 20px; 
+} 
+
+.deal-section-container img{
     
 }
 .latest-deal-title{
