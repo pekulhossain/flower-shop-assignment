@@ -26,6 +26,7 @@
     font-size:18px;
     padding-top: 20px;
     padding-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
 }
 .btn-header{
 border-radius: 8px;
@@ -39,4 +40,59 @@ color: white;
 }
 .header-right-content{
     padding-right: 100px;
+}
+
+.flower-section{
+    display: flex;
+
+}
+.featured-section{
+    padding-bottom: 25px;
+}
+.featured-section h1 {
+    align-content: center;
+    text-align: center;
+    color: #272727;
+    padding-top: 120px;
+    font-size: 54px;
+    padding-bottom: 10px;
+}
+.featured-section p {
+    align-content: center;
+    text-align: center;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    padding-bottom: 15px;
+   
+}
+.flower-section{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: space-around;
+    padding: 0px 40px;
+}
+.flower-round-img {
+    width: 380px;
+    height:428px ;
+    border-radius: 350px 350px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 0px;
+}
+.flower-round-img img {
+width: 200px;
+height: 280px;
+margin-bottom: 20px;
+padding-top: 148px;
+}
+.name-flower{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    padding-top: 15px;
+    text-decoration: underline;
+    font-size: 20px;
+    color: #272727;
 }
